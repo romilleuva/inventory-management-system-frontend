@@ -82,7 +82,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,tailwind,vite,git,github&theme=dark" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,tailwind,git,github&theme=dark" alt="Technology stack">
 
 </div>
 
