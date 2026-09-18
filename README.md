@@ -94,16 +94,21 @@ inventory-management-system-frontend/
 ├── src/
 │   ├── components/
 │   ├── pages/
-│   ├── services/
-│   ├── hooks/
-│   ├── assets/
-│   └── App.*
+|   ├── api/
+|   ├── context/
+│   └── assets/
 ├── .env.example
+├── App.jsx
+├── index.css
+├── main.jsx
+├── .gitignore
+├── .oxlintrc.json
+├── index.html
+├── package-lock.json
 ├── package.json
 └── README.md
 ```
 
-> Adjust the structure to match the actual repository.
 
 ---
 
