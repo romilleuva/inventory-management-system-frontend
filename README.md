@@ -78,8 +78,6 @@ flowchart LR
 
 ## 🛠️ Tech Stack
 
-> Update this section with the exact technologies used in the repository.
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,tailwind,git,github&theme=dark" alt="Technology stack">
