@@ -165,9 +165,6 @@ Typical local setup:
 Frontend: http://localhost:3000
 Backend:  http://localhost:5000
 ```
-
-> Confirm the actual ports and API routes in the source code before publishing.
-
 ---
 
 ## 🖼️ Screenshots
